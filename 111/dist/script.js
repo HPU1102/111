@@ -1,0 +1,1 @@
+document.write("結束了，掰掰 ")
